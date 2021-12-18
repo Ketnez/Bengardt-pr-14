@@ -1,0 +1,38 @@
+﻿<Window x:Class="_14_pr_Bengardt.Settings"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:_14_pr_Bengardt"
+      mc:Ignorable="d"
+      Title="Settings" Height="217.453" Width="554.272" Loaded="Window_Loaded">
+
+    <Grid Margin="0,0,2,-3">
+        
+            <Grid Margin="0,0,-2,-13">
+                <Menu VerticalAlignment="Top">
+                    <MenuItem x:Name="confirm" Header="Применить" Click="confirm_Click"/>
+                    <MenuItem x:Name="cancel" Header="Отмена" Click="cancel_Click"/>
+                </Menu>
+                <GroupBox Margin="20,24,293,39" Header="Текущие значения">
+                    <Grid>
+                        <TextBlock HorizontalAlignment="Left" Margin="4,8,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20"><Run Language="ru-ru" Text="Количество строк: "/></TextBlock>
+                        <TextBox x:Name="currentRowCount" HorizontalAlignment="Left" Margin="129,8,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="65" Height="20"/>
+                        <TextBlock HorizontalAlignment="Left" Margin="4,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20"><Run Text="Количество"/><Run Language="ru-ru" Text=" столбцов"/><Run Text=": "/></TextBlock>
+                        <TextBox x:Name="currentColumnCount" HorizontalAlignment="Left" Margin="129,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="65" Height="20"/>
+                    </Grid>
+                </GroupBox>
+                <GroupBox Margin="245,24,24,39" Header="Новые значения">
+                    <Grid>
+                        <TextBlock HorizontalAlignment="Left" Margin="4,8,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20"><Run Language="ru-ru" Text="Количество строк: "/></TextBlock>
+                        <TextBox x:Name="newRowCount" HorizontalAlignment="Left" Margin="129,8,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="65" Height="20"/>
+                        <TextBlock HorizontalAlignment="Left" Margin="4,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20"><Run Text="Количество"/><Run Language="ru-ru" Text=" столбцов"/><Run Text=": "/></TextBlock>
+                        <TextBox x:Name="newColumnCount" HorizontalAlignment="Left" Margin="129,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="65" Height="20"/>
+
+                    </Grid>
+                </GroupBox>
+            </Grid>
+     
+
+    </Grid>
+</Window>

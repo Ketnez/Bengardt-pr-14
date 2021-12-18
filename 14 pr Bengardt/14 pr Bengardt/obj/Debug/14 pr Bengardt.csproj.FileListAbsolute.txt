@@ -1,0 +1,18 @@
+C:\Users\исп-34\source\repos\14 pr Bengardt\14 pr Bengardt\obj\Debug\14 pr Bengardt.csproj.AssemblyReference.cache
+C:\Users\исп-34\source\repos\14 pr Bengardt\14 pr Bengardt\obj\Debug\MainWindow.g.cs
+C:\Users\исп-34\source\repos\14 pr Bengardt\14 pr Bengardt\obj\Debug\App.g.cs
+C:\Users\исп-34\source\repos\14 pr Bengardt\14 pr Bengardt\obj\Debug\14 pr Bengardt_MarkupCompile.cache
+C:\Users\исп-34\source\repos\14 pr Bengardt\14 pr Bengardt\obj\Debug\14 pr Bengardt_MarkupCompile.lref
+C:\Users\исп-34\source\repos\14 pr Bengardt\14 pr Bengardt\bin\Debug\14 pr Bengardt.exe.config
+C:\Users\исп-34\source\repos\14 pr Bengardt\14 pr Bengardt\bin\Debug\14 pr Bengardt.exe
+C:\Users\исп-34\source\repos\14 pr Bengardt\14 pr Bengardt\bin\Debug\14 pr Bengardt.pdb
+C:\Users\исп-34\source\repos\14 pr Bengardt\14 pr Bengardt\obj\Debug\MainWindow.baml
+C:\Users\исп-34\source\repos\14 pr Bengardt\14 pr Bengardt\obj\Debug\14 pr Bengardt.g.resources
+C:\Users\исп-34\source\repos\14 pr Bengardt\14 pr Bengardt\obj\Debug\_14_pr_Bengardt.Properties.Resources.resources
+C:\Users\исп-34\source\repos\14 pr Bengardt\14 pr Bengardt\obj\Debug\14 pr Bengardt.csproj.GenerateResource.cache
+C:\Users\исп-34\source\repos\14 pr Bengardt\14 pr Bengardt\obj\Debug\14 pr Bengardt.csproj.CoreCompileInputs.cache
+C:\Users\исп-34\source\repos\14 pr Bengardt\14 pr Bengardt\obj\Debug\14 pr Bengardt.exe
+C:\Users\исп-34\source\repos\14 pr Bengardt\14 pr Bengardt\obj\Debug\14 pr Bengardt.pdb
+C:\Users\исп-34\source\repos\14 pr Bengardt\14 pr Bengardt\obj\Debug\Login.g.cs
+C:\Users\исп-34\source\repos\14 pr Bengardt\14 pr Bengardt\obj\Debug\Login.baml
+C:\Users\исп-34\source\repos\14 pr Bengardt\14 pr Bengardt\obj\Debug\Settings.g.cs
